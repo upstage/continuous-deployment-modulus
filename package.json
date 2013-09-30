@@ -34,7 +34,8 @@
     }
   ],
   "dependencies": {
-    "modulus": "~0.1.16"
+    "modulus": "~0.1.16",
+    "resolve-dep": "~0.1.3"
   },
   "keywords": [
     "express",
