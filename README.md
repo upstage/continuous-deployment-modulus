@@ -13,7 +13,7 @@ Add to your express application before routing...
 ```js
 var cd = require('continuous-deployment-modulus');
 app.configure(function() {
-  app.use(cd(app));
+  app.use('/deploy', cd());
 });
 ```
 
