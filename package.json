@@ -1,6 +1,6 @@
 {
   "name": "continuous-deployment-modulus",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Express middleware for enabling continuous deployment from github on modulus.io",
   "main": "./lib",
   "scripts": {
