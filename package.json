@@ -1,0 +1,47 @@
+{
+  "name": "continuous-deployment-modulus",
+  "version": "0.0.0",
+  "description": "Express middleware for enabling continuous deployment from github on modulus.io",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "upstage",
+    "url": "https://github.com/upstage"
+  },
+  "contributors": [
+    {
+      "name": "Brian Woodward",
+      "url": "https://github.com/doowb"
+    },
+    {
+      "name": "Jon Schlinkert",
+      "url": "https://github.com/jonschlinkert"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/upstage/continuous-deployment-modulus.git"
+  },
+  "bugs": {
+    "url": "git://github.com/upstage/continuous-deployment-modulus/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/upstage/continuous-deployment-modulus/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "modulus": "~0.1.16"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "modulus.io",
+    "continuous deployment"
+    "github",
+    "git hooks"
+  ]
+}

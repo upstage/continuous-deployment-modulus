@@ -1,0 +1,5 @@
+v0.0.0:
+  date: "2013-09-29"
+  changes:
+    - Initial version
+    - New Middleware for express to add continuous deployment to modulus.io from a github repo.
